@@ -1,13 +1,5 @@
 ## Environment
 
-|Category|Name|Version|
-|-----|-----|-----|
-|os|ubuntu|18.04|
-||python|3.6|
-|Deep Learning Frameworks|tensorflow-gpu|1.11.0|
-||Keras|2.1.5|
-||opencv|3.4.9|
-
 ```angular2
 conda create -n VT_sort python=3.6
 conda install tensorflow-gpu==1.13.0 Keras==2.3.1
